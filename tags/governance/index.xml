@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Governance on The Business of Free &amp; Open Source Software</title>
+    <link>http://localhost:1313/tags/governance/</link>
+    <description>Recent content in Governance on The Business of Free &amp; Open Source Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mandysidana@outlook.com (Mandy Sidana)</managingEditor>
+    <webMaster>mandysidana@outlook.com (Mandy Sidana)</webMaster>
+    <copyright>© 2025 Mandy Sidana</copyright>
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/governance/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Upside To Donating Projects to the CNCF</title>
+      <link>http://localhost:1313/posts/upside-donating-projects-cncf/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/posts/upside-donating-projects-cncf/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

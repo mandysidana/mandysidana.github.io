@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Competition on The Business of Free &amp; Open Source Software</title>
+    <link>http://localhost:1313/tags/competition/</link>
+    <description>Recent content in Competition on The Business of Free &amp; Open Source Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mandysidana@outlook.com (Mandy Sidana)</managingEditor>
+    <webMaster>mandysidana@outlook.com (Mandy Sidana)</webMaster>
+    <copyright>© 2025 Mandy Sidana</copyright>
+    <lastBuildDate>Thu, 22 May 2025 00:00:00 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/competition/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Open Source Copilot Gambit: Microsoft&#39;s Two-Pronged Plan to Stifle Competitors</title>
+      <link>http://localhost:1313/posts/microsoft-copilot-gambit/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/posts/microsoft-copilot-gambit/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
