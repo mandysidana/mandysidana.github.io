@@ -9,7 +9,27 @@
     <managingEditor>mandysidana@outlook.com (Mandy Sidana)</managingEditor>
     <webMaster>mandysidana@outlook.com (Mandy Sidana)</webMaster>
     <copyright>© 2025 Mandy Sidana</copyright>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Jul 2025 00:00:00 -0700</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/categories/technology/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/categories/technology/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>http://localhost:1313/categories/business/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/categories/business/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

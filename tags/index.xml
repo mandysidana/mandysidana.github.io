@@ -9,7 +9,357 @@
     <managingEditor>mandysidana@outlook.com (Mandy Sidana)</managingEditor>
     <webMaster>mandysidana@outlook.com (Mandy Sidana)</webMaster>
     <copyright>© 2025 Mandy Sidana</copyright>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Jul 2025 00:00:00 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Frontend</title>
+      <link>http://localhost:1313/tags/frontend/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/frontend/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/javascript/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>http://localhost:1313/tags/react/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/react/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web-Development</title>
+      <link>http://localhost:1313/tags/web-development/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/web-development/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>http://localhost:1313/tags/business/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/business/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cac</title>
+      <link>http://localhost:1313/tags/cac/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/cac/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cltv</title>
+      <link>http://localhost:1313/tags/cltv/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/cltv/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Growth</title>
+      <link>http://localhost:1313/tags/growth/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/growth/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Metrics</title>
+      <link>http://localhost:1313/tags/metrics/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/metrics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Saas</title>
+      <link>http://localhost:1313/tags/saas/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/saas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ai</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Competition</title>
+      <link>http://localhost:1313/tags/competition/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/competition/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Copilot</title>
+      <link>http://localhost:1313/tags/copilot/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/copilot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Microsoft</title>
+      <link>http://localhost:1313/tags/microsoft/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/microsoft/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Open-Source</title>
+      <link>http://localhost:1313/tags/open-source/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/open-source/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Strategy</title>
+      <link>http://localhost:1313/tags/strategy/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/strategy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Business-Models</title>
+      <link>http://localhost:1313/tags/business-models/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/business-models/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Commercial</title>
+      <link>http://localhost:1313/tags/commercial/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/commercial/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Legal</title>
+      <link>http://localhost:1313/tags/legal/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/legal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Licensing</title>
+      <link>http://localhost:1313/tags/licensing/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/licensing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>End-of-Life</title>
+      <link>http://localhost:1313/tags/end-of-life/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/end-of-life/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Maintenance</title>
+      <link>http://localhost:1313/tags/maintenance/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/maintenance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sustainability</title>
+      <link>http://localhost:1313/tags/sustainability/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/sustainability/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Business-Strategy</title>
+      <link>http://localhost:1313/tags/business-strategy/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/business-strategy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pricing</title>
+      <link>http://localhost:1313/tags/pricing/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/pricing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Coss</title>
+      <link>http://localhost:1313/tags/coss/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/coss/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Leverage</title>
+      <link>http://localhost:1313/tags/leverage/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/leverage/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Product-Management</title>
+      <link>http://localhost:1313/tags/product-management/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/product-management/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agpl</title>
+      <link>http://localhost:1313/tags/agpl/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/agpl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Copyleft</title>
+      <link>http://localhost:1313/tags/copyleft/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/copyleft/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Free-Software</title>
+      <link>http://localhost:1313/tags/free-software/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/free-software/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud-Native</title>
+      <link>http://localhost:1313/tags/cloud-native/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/cloud-native/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cncf</title>
+      <link>http://localhost:1313/tags/cncf/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/cncf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Donation</title>
+      <link>http://localhost:1313/tags/donation/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/donation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Governance</title>
+      <link>http://localhost:1313/tags/governance/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>http://localhost:1313/tags/governance/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
