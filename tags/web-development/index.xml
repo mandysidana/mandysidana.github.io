@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web-Development on The Business of Free &amp; Open Source Software</title>
-    <link>http://localhost:1313/tags/web-development/</link>
+    <link>https://mandysidana.com/tags/web-development/</link>
     <description>Recent content in Web-Development on The Business of Free &amp; Open Source Software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mandysidana@outlook.com (Mandy Sidana)</managingEditor>
     <webMaster>mandysidana@outlook.com (Mandy Sidana)</webMaster>
     <copyright>© 2025 Mandy Sidana</copyright>
-    <lastBuildDate>Tue, 08 Jul 2025 00:00:00 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Jul 2025 00:00:00 -0700</lastBuildDate><atom:link href="https://mandysidana.com/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>React&#39;s Evolving Vision: Dispelling Misconceptions and Navigating the Framework Frontier</title>
-      <link>http://localhost:1313/posts/react-evolving-vision/</link>
+      <link>https://mandysidana.com/posts/react-evolving-vision/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>http://localhost:1313/posts/react-evolving-vision/</guid>
+      <guid>https://mandysidana.com/posts/react-evolving-vision/</guid>
       <description></description>
       
     </item>

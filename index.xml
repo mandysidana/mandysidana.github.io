@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BoFOSS on The Business of Free &amp; Open Source Software</title>
-    <link>http://localhost:1313/</link>
+    <link>https://mandysidana.com/</link>
     <description>Recent content in BoFOSS on The Business of Free &amp; Open Source Software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mandysidana@outlook.com (Mandy Sidana)</managingEditor>
     <webMaster>mandysidana@outlook.com (Mandy Sidana)</webMaster>
     <copyright>© 2025 Mandy Sidana</copyright>
-    <lastBuildDate>Wed, 09 Jul 2025 19:12:37 -0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jul 2025 19:12:37 -0700</lastBuildDate><atom:link href="https://mandysidana.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Is SSO an Enterprise Tier feature?</title>
-      <link>http://localhost:1313/posts/sso/</link>
+      <link>https://mandysidana.com/posts/sso/</link>
       <pubDate>Wed, 09 Jul 2025 19:12:37 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>http://localhost:1313/posts/sso/</guid>
+      <guid>https://mandysidana.com/posts/sso/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>React&#39;s Evolving Vision: Dispelling Misconceptions and Navigating the Framework Frontier</title>
-      <link>http://localhost:1313/posts/react-evolving-vision/</link>
+      <link>https://mandysidana.com/posts/react-evolving-vision/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>http://localhost:1313/posts/react-evolving-vision/</guid>
+      <guid>https://mandysidana.com/posts/react-evolving-vision/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The CLTV/CAC Ratio: The Single Most Important SaaS Growth Metric</title>
-      <link>http://localhost:1313/posts/cltv-cac-ratio/</link>
+      <link>https://mandysidana.com/posts/cltv-cac-ratio/</link>
       <pubDate>Fri, 13 Jun 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>http://localhost:1313/posts/cltv-cac-ratio/</guid>
+      <guid>https://mandysidana.com/posts/cltv-cac-ratio/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Open Source Copilot Gambit: Microsoft&#39;s Two-Pronged Plan to Stifle Competitors</title>
-      <link>http://localhost:1313/posts/microsoft-copilot-gambit/</link>
+      <link>https://mandysidana.com/posts/microsoft-copilot-gambit/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>http://localhost:1313/posts/microsoft-copilot-gambit/</guid>
+      <guid>https://mandysidana.com/posts/microsoft-copilot-gambit/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Evolution of Commercial Open Source Licensing</title>
-      <link>http://localhost:1313/posts/evolution-commercial-open-source-licensing/</link>
+      <link>https://mandysidana.com/posts/evolution-commercial-open-source-licensing/</link>
       <pubDate>Thu, 08 May 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>http://localhost:1313/posts/evolution-commercial-open-source-licensing/</guid>
+      <guid>https://mandysidana.com/posts/evolution-commercial-open-source-licensing/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Business Models supporting FOSS end-of-life</title>
-      <link>http://localhost:1313/posts/business-models-foss-end-of-life/</link>
+      <link>https://mandysidana.com/posts/business-models-foss-end-of-life/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>http://localhost:1313/posts/business-models-foss-end-of-life/</guid>
+      <guid>https://mandysidana.com/posts/business-models-foss-end-of-life/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>When Your Biggest Competitor Is Your Own Open Source Offering</title>
-      <link>http://localhost:1313/posts/biggest-competitor-open-source/</link>
+      <link>https://mandysidana.com/posts/biggest-competitor-open-source/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>http://localhost:1313/posts/biggest-competitor-open-source/</guid>
+      <guid>https://mandysidana.com/posts/biggest-competitor-open-source/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The Open Source Edge: 5 Ways PMs Can Gain Leverage</title>
-      <link>http://localhost:1313/posts/open-source-edge-product-managers/</link>
+      <link>https://mandysidana.com/posts/open-source-edge-product-managers/</link>
       <pubDate>Thu, 06 Mar 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>http://localhost:1313/posts/open-source-edge-product-managers/</guid>
+      <guid>https://mandysidana.com/posts/open-source-edge-product-managers/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Why AGPL is a force for good?</title>
-      <link>http://localhost:1313/posts/why-agpl-force-for-good/</link>
+      <link>https://mandysidana.com/posts/why-agpl-force-for-good/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>http://localhost:1313/posts/why-agpl-force-for-good/</guid>
+      <guid>https://mandysidana.com/posts/why-agpl-force-for-good/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The Upside To Donating Projects to the CNCF</title>
-      <link>http://localhost:1313/posts/upside-donating-projects-cncf/</link>
+      <link>https://mandysidana.com/posts/upside-donating-projects-cncf/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>http://localhost:1313/posts/upside-donating-projects-cncf/</guid>
+      <guid>https://mandysidana.com/posts/upside-donating-projects-cncf/</guid>
       <description></description>
       
     </item>
