@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud-Native on The Business of Free &amp; Open Source Software</title>
-    <link>mandysidana.github.io/tags/cloud-native/</link>
+    <link>https://mandysidana.github.io/tags/cloud-native/</link>
     <description>Recent content in Cloud-Native on The Business of Free &amp; Open Source Software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mandysidana@outlook.com (Mandy Sidana)</managingEditor>
     <webMaster>mandysidana@outlook.com (Mandy Sidana)</webMaster>
     <copyright>© 2025 Mandy Sidana</copyright>
-    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 -0700</lastBuildDate><atom:link href="mandysidana.github.io/tags/cloud-native/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 -0700</lastBuildDate><atom:link href="https://mandysidana.github.io/tags/cloud-native/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Upside To Donating Projects to the CNCF</title>
-      <link>mandysidana.github.io/posts/upside-donating-projects-cncf/</link>
+      <link>https://mandysidana.github.io/posts/upside-donating-projects-cncf/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>mandysidana.github.io/posts/upside-donating-projects-cncf/</guid>
+      <guid>https://mandysidana.github.io/posts/upside-donating-projects-cncf/</guid>
       <description></description>
       
     </item>
