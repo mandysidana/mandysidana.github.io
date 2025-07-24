@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Licensing on The Business of Free &amp; Open Source Software</title>
-    <link>https://mandysidana.com/tags/licensing/</link>
+    <link>mandysidana.github.io/tags/licensing/</link>
     <description>Recent content in Licensing on The Business of Free &amp; Open Source Software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mandysidana@outlook.com (Mandy Sidana)</managingEditor>
     <webMaster>mandysidana@outlook.com (Mandy Sidana)</webMaster>
     <copyright>© 2025 Mandy Sidana</copyright>
-    <lastBuildDate>Thu, 08 May 2025 00:00:00 -0700</lastBuildDate><atom:link href="https://mandysidana.com/tags/licensing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 May 2025 00:00:00 -0700</lastBuildDate><atom:link href="mandysidana.github.io/tags/licensing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Evolution of Commercial Open Source Licensing</title>
-      <link>https://mandysidana.com/posts/evolution-commercial-open-source-licensing/</link>
+      <link>mandysidana.github.io/posts/evolution-commercial-open-source-licensing/</link>
       <pubDate>Thu, 08 May 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>https://mandysidana.com/posts/evolution-commercial-open-source-licensing/</guid>
+      <guid>mandysidana.github.io/posts/evolution-commercial-open-source-licensing/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Why AGPL is a force for good?</title>
-      <link>https://mandysidana.com/posts/why-agpl-force-for-good/</link>
+      <link>mandysidana.github.io/posts/why-agpl-force-for-good/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>https://mandysidana.com/posts/why-agpl-force-for-good/</guid>
+      <guid>mandysidana.github.io/posts/why-agpl-force-for-good/</guid>
       <description></description>
       
     </item>
