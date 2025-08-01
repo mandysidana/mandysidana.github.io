@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iaas on The Business of Free &amp; Open Source Software</title>
+    <link>https://mandysidana.github.io/tags/iaas/</link>
+    <description>Recent content in Iaas on The Business of Free &amp; Open Source Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mandysidana@outlook.com (Mandy Sidana)</managingEditor>
+    <webMaster>mandysidana@outlook.com (Mandy Sidana)</webMaster>
+    <copyright>© 2025 Mandy Sidana</copyright>
+    <lastBuildDate>Tue, 05 Nov 2024 00:00:00 -0700</lastBuildDate><atom:link href="https://mandysidana.github.io/tags/iaas/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Will AI Agents be the end of the PaaS (platform as a service)</title>
+      <link>https://mandysidana.github.io/posts/platform-as-a-service-and-ai-agents/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>https://mandysidana.github.io/posts/platform-as-a-service-and-ai-agents/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

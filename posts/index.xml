@@ -53,12 +53,12 @@
     
     <item>
       <title>Evolution of Commercial Open Source Licensing</title>
-      <link>https://mandysidana.github.io/posts/evolution-commercial-open-source-licensing/</link>
+      <link>https://mandysidana.github.io/posts/evoution_coss_licenses/</link>
       <pubDate>Thu, 08 May 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>https://mandysidana.github.io/posts/evolution-commercial-open-source-licensing/</guid>
+      <guid>https://mandysidana.github.io/posts/evoution_coss_licenses/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mandysidana.github.io/posts/evoution_coss_licenses/featured.jpg" />
     </item>
     
     <item>
@@ -107,6 +107,36 @@
       <pubDate>Mon, 24 Feb 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
       <guid>https://mandysidana.github.io/posts/upside-donating-projects-cncf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Open-core business strategy @ Hugging Face, AKA &#39;GitHub for AI Models&#39;</title>
+      <link>https://mandysidana.github.io/posts/hugging-face-github-for-ai-models/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>https://mandysidana.github.io/posts/hugging-face-github-for-ai-models/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Will AI Agents be the end of the PaaS (platform as a service)</title>
+      <link>https://mandysidana.github.io/posts/platform-as-a-service-and-ai-agents/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>https://mandysidana.github.io/posts/platform-as-a-service-and-ai-agents/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Open-source Business Model at Anaconda</title>
+      <link>https://mandysidana.github.io/posts/anacondas-business-model/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>https://mandysidana.github.io/posts/anacondas-business-model/</guid>
       <description></description>
       
     </item>
