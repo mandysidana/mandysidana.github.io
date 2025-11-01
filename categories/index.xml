@@ -9,14 +9,24 @@
     <managingEditor>mandysidana@outlook.com (Mandy Sidana)</managingEditor>
     <webMaster>mandysidana@outlook.com (Mandy Sidana)</webMaster>
     <copyright>© 2025 Mandy Sidana</copyright>
-    <lastBuildDate>Tue, 08 Jul 2025 00:00:00 -0700</lastBuildDate><atom:link href="https://mandysidana.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Oct 2025 00:00:00 -0700</lastBuildDate><atom:link href="https://mandysidana.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Technology</title>
       <link>https://mandysidana.github.io/categories/technology/</link>
-      <pubDate>Tue, 08 Jul 2025 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 25 Oct 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
       <guid>https://mandysidana.github.io/categories/technology/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Infrastructure</title>
+      <link>https://mandysidana.github.io/categories/infrastructure/</link>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>https://mandysidana.github.io/categories/infrastructure/</guid>
       <description></description>
       
     </item>

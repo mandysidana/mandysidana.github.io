@@ -9,7 +9,17 @@
     <managingEditor>mandysidana@outlook.com (Mandy Sidana)</managingEditor>
     <webMaster>mandysidana@outlook.com (Mandy Sidana)</webMaster>
     <copyright>© 2025 Mandy Sidana</copyright>
-    <lastBuildDate>Tue, 05 Nov 2024 00:00:00 -0700</lastBuildDate><atom:link href="https://mandysidana.github.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Oct 2025 00:00:00 -0700</lastBuildDate><atom:link href="https://mandysidana.github.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AWS Just Proved It&#39;s the Internet&#39;s Biggest Single Point of Failure</title>
+      <link>https://mandysidana.github.io/posts/aws-single-point-of-failure/</link>
+      <pubDate>Sat, 25 Oct 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>https://mandysidana.github.io/posts/aws-single-point-of-failure/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Will AI Agents be the end of the PaaS (platform as a service)</title>

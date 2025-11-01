@@ -9,7 +9,37 @@
     <managingEditor>mandysidana@outlook.com (Mandy Sidana)</managingEditor>
     <webMaster>mandysidana@outlook.com (Mandy Sidana)</webMaster>
     <copyright>© 2025 Mandy Sidana</copyright>
-    <lastBuildDate>Wed, 09 Jul 2025 19:12:37 -0700</lastBuildDate><atom:link href="https://mandysidana.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Oct 2025 00:00:00 -0700</lastBuildDate><atom:link href="https://mandysidana.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AWS Just Proved It&#39;s the Internet&#39;s Biggest Single Point of Failure</title>
+      <link>https://mandysidana.github.io/posts/aws-single-point-of-failure/</link>
+      <pubDate>Sat, 25 Oct 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>https://mandysidana.github.io/posts/aws-single-point-of-failure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Big Cloud&#39;s Highway Robbery (And Why Multi-cloud strategy falls short)</title>
+      <link>https://mandysidana.github.io/posts/big-cloud-highway-robbery-multi-cloud-strategy/</link>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>https://mandysidana.github.io/posts/big-cloud-highway-robbery-multi-cloud-strategy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Vercel Takeover of React That Never Happened</title>
+      <link>https://mandysidana.github.io/posts/react-evolving-vision/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>https://mandysidana.github.io/posts/react-evolving-vision/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Is SSO an Enterprise Tier feature?</title>
@@ -17,16 +47,6 @@
       <pubDate>Wed, 09 Jul 2025 19:12:37 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
       <guid>https://mandysidana.github.io/posts/sso/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>React&#39;s Evolving Vision: Dispelling Misconceptions and Navigating the Framework Frontier</title>
-      <link>https://mandysidana.github.io/posts/react-evolving-vision/</link>
-      <pubDate>Tue, 08 Jul 2025 00:00:00 -0700</pubDate>
-      <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>https://mandysidana.github.io/posts/react-evolving-vision/</guid>
       <description></description>
       
     </item>
