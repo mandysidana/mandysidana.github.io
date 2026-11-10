@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source Licenses Case Studies on The Business of Free &amp; Open Source Software</title>
+    <link>https://mandysidana.github.io/oss-licenses/</link>
+    <description>Recent content in Open Source Licenses Case Studies on The Business of Free &amp; Open Source Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mandysidana@outlook.com (Mandy Sidana)</managingEditor>
+    <webMaster>mandysidana@outlook.com (Mandy Sidana)</webMaster>
+    <copyright>© 2026 Mandy Sidana</copyright>
+    <lastBuildDate>Thu, 08 May 2025 00:00:00 -0700</lastBuildDate><atom:link href="https://mandysidana.github.io/oss-licenses/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Evolution of Commercial Open Source Licensing</title>
+      <link>https://mandysidana.github.io/oss-licenses/evolution-of-coss-licenses/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>https://mandysidana.github.io/oss-licenses/evolution-of-coss-licenses/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mandysidana.github.io/oss-licenses/evolution-of-coss-licenses/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Why AGPL is a force for good?</title>
+      <link>https://mandysidana.github.io/oss-licenses/why-agpl-force-for-good/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>https://mandysidana.github.io/oss-licenses/why-agpl-force-for-good/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

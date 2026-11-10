@@ -8,7 +8,7 @@
     <language>en</language>
     <managingEditor>mandysidana@outlook.com (Mandy Sidana)</managingEditor>
     <webMaster>mandysidana@outlook.com (Mandy Sidana)</webMaster>
-    <copyright>© 2025 Mandy Sidana</copyright>
+    <copyright>© 2026 Mandy Sidana</copyright>
     <lastBuildDate>Sat, 25 Oct 2025 00:00:00 -0700</lastBuildDate><atom:link href="https://mandysidana.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -28,7 +28,7 @@
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
       <guid>https://mandysidana.github.io/posts/big-cloud-highway-robbery-multi-cloud-strategy/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mandysidana.github.io/posts/big-cloud-highway-robbery-multi-cloud-strategy/feature.jpg" />
     </item>
     
     <item>
@@ -72,16 +72,6 @@
     </item>
     
     <item>
-      <title>Evolution of Commercial Open Source Licensing</title>
-      <link>https://mandysidana.github.io/posts/evoution_coss_licenses/</link>
-      <pubDate>Thu, 08 May 2025 00:00:00 -0700</pubDate>
-      <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>https://mandysidana.github.io/posts/evoution_coss_licenses/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mandysidana.github.io/posts/evoution_coss_licenses/featured.jpg" />
-    </item>
-    
-    <item>
       <title>Business Models supporting FOSS end-of-life</title>
       <link>https://mandysidana.github.io/posts/business-models-foss-end-of-life/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
@@ -107,16 +97,6 @@
       <pubDate>Thu, 06 Mar 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
       <guid>https://mandysidana.github.io/posts/open-source-edge-product-managers/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Why AGPL is a force for good?</title>
-      <link>https://mandysidana.github.io/posts/why-agpl-force-for-good/</link>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 -0700</pubDate>
-      <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>https://mandysidana.github.io/posts/why-agpl-force-for-good/</guid>
       <description></description>
       
     </item>

@@ -8,25 +8,25 @@
     <language>en</language>
     <managingEditor>mandysidana@outlook.com (Mandy Sidana)</managingEditor>
     <webMaster>mandysidana@outlook.com (Mandy Sidana)</webMaster>
-    <copyright>© 2025 Mandy Sidana</copyright>
+    <copyright>© 2026 Mandy Sidana</copyright>
     <lastBuildDate>Thu, 08 May 2025 00:00:00 -0700</lastBuildDate><atom:link href="https://mandysidana.github.io/tags/licensing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Evolution of Commercial Open Source Licensing</title>
-      <link>https://mandysidana.github.io/posts/evoution_coss_licenses/</link>
+      <link>https://mandysidana.github.io/oss-licenses/evolution-of-coss-licenses/</link>
       <pubDate>Thu, 08 May 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>https://mandysidana.github.io/posts/evoution_coss_licenses/</guid>
+      <guid>https://mandysidana.github.io/oss-licenses/evolution-of-coss-licenses/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mandysidana.github.io/posts/evoution_coss_licenses/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mandysidana.github.io/oss-licenses/evolution-of-coss-licenses/featured.jpg" />
     </item>
     
     <item>
       <title>Why AGPL is a force for good?</title>
-      <link>https://mandysidana.github.io/posts/why-agpl-force-for-good/</link>
+      <link>https://mandysidana.github.io/oss-licenses/why-agpl-force-for-good/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>https://mandysidana.github.io/posts/why-agpl-force-for-good/</guid>
+      <guid>https://mandysidana.github.io/oss-licenses/why-agpl-force-for-good/</guid>
       <description></description>
       
     </item>
