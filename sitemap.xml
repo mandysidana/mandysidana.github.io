@@ -3,19 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mandysidana.github.io/posts/aws-single-point-of-failure/</loc>
-    <lastmod>2025-10-25T00:00:00-07:00</lastmod>
+    <loc>https://mandysidana.github.io/posts/deno-joins-cloudflare/</loc>
+    <lastmod>2026-11-10T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mandysidana.github.io/</loc>
-    <lastmod>2025-10-25T00:00:00-07:00</lastmod>
+    <lastmod>2026-11-10T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://mandysidana.github.io/posts/</loc>
+    <lastmod>2026-11-10T00:00:00-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mandysidana.github.io/posts/aws-single-point-of-failure/</loc>
     <lastmod>2025-10-25T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

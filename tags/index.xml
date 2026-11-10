@@ -9,7 +9,67 @@
     <managingEditor>mandysidana@outlook.com (Mandy Sidana)</managingEditor>
     <webMaster>mandysidana@outlook.com (Mandy Sidana)</webMaster>
     <copyright>© 2026 Mandy Sidana</copyright>
-    <lastBuildDate>Sat, 25 Oct 2025 00:00:00 -0700</lastBuildDate><atom:link href="https://mandysidana.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Nov 2026 00:00:00 -0700</lastBuildDate><atom:link href="https://mandysidana.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cloudflare</title>
+      <link>https://mandysidana.github.io/tags/cloudflare/</link>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>https://mandysidana.github.io/tags/cloudflare/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Deno</title>
+      <link>https://mandysidana.github.io/tags/deno/</link>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>https://mandysidana.github.io/tags/deno/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dependency-Risk</title>
+      <link>https://mandysidana.github.io/tags/dependency-risk/</link>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>https://mandysidana.github.io/tags/dependency-risk/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://mandysidana.github.io/tags/javascript/</link>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>https://mandysidana.github.io/tags/javascript/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Open-Source</title>
+      <link>https://mandysidana.github.io/tags/open-source/</link>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>https://mandysidana.github.io/tags/open-source/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Runtimes</title>
+      <link>https://mandysidana.github.io/tags/runtimes/</link>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 -0700</pubDate>
+      <author>mandysidana@outlook.com (Mandy Sidana)</author>
+      <guid>https://mandysidana.github.io/tags/runtimes/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Aws</title>
@@ -142,16 +202,6 @@
     </item>
     
     <item>
-      <title>Javascript</title>
-      <link>https://mandysidana.github.io/tags/javascript/</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 -0700</pubDate>
-      <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>https://mandysidana.github.io/tags/javascript/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>React</title>
       <link>https://mandysidana.github.io/tags/react/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 -0700</pubDate>
@@ -267,16 +317,6 @@
       <pubDate>Thu, 22 May 2025 00:00:00 -0700</pubDate>
       <author>mandysidana@outlook.com (Mandy Sidana)</author>
       <guid>https://mandysidana.github.io/tags/microsoft/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Open-Source</title>
-      <link>https://mandysidana.github.io/tags/open-source/</link>
-      <pubDate>Thu, 22 May 2025 00:00:00 -0700</pubDate>
-      <author>mandysidana@outlook.com (Mandy Sidana)</author>
-      <guid>https://mandysidana.github.io/tags/open-source/</guid>
       <description></description>
       
     </item>
